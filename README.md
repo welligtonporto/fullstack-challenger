@@ -1,4 +1,4 @@
-# fullstack-challenger
+# fullstack-challenge
 
 O desafio será implementar uma página onde um professor de odontologia consiga montar uma lista de compras para seus alunos do próximo semestre.
 
