@@ -3,7 +3,7 @@
 O desafio será implementar uma página onde um professor de odontologia consiga montar uma lista de compras para seus alunos do próximo semestre.
 
 A página precisa ter:
-- A lista de materiais (imagem do produto, nome do produto, marca, quantidade, obrigatório (sim ou não))
+- A lista de materiais (imagem do produto, nome do produto, marca, quantidade, obrigatório [sim ou não])
 - A opção de adicionar um novo produto nessa lista
 
 ## Pré-requisitos:
